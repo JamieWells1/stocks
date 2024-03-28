@@ -23,5 +23,3 @@ function maxProfit(prices) {
     return sum;
   }
 }
-
-maxProfit([7, 4, 8, 9, 10, 1, 8]);
